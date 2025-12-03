@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510756179302",
+    "project_id": "compartirubicacion-1289d",
+    "storage_bucket": "compartirubicacion-1289d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510756179302:android:1c6739a62016057d2e8ca7",
+        "android_client_info": {
+          "package_name": "cl.duoc.entrega2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4CLcQPTEA3aar7ir4HxzAnMnuyLSS0uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
